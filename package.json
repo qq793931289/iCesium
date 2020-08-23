@@ -1,8 +1,9 @@
 {
-  "name": "aicgz",
-  "version": "1.0.11",
+  "name": "icesium",
+  "version": "1.0.3",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "demo": "webpack-dev-server --mode=development --inline --config demo.config.js --content-base ./demo-dist/ --open",
     "dev": "webpack-dev-server --mode development --config webpack.config.js",

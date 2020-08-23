@@ -23,7 +23,7 @@ module.exports = {
     filename: '[name].js',
     // filename: 'bundle.js',
     libraryTarget: 'umd',
-    library: 'vtouch-view3d',
+    library: 'icesium',
     umdNamedDefine: true,
   },
   module: {
@@ -69,7 +69,7 @@ module.exports = {
 }
 
 if (process.env.NODE_ENV === 'production') {
-  // module.exports.devtool = '#source-map';
+  module.exports.devtool = '#source-map';
   // module.exports.devtool = false;
 
   module.exports.plugins = (module.exports.plugins || []).concat([
