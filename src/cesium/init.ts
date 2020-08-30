@@ -13,6 +13,7 @@ import * as Cesium from 'cesium';
 // import { Input } from 'antd';
 import { CoordinateTools } from './cesiumutils/coordinatetools';
 import { API } from '../api/api';
+import { Adcode, AdcodeProps } from './cesiumutils/adcode';
 
 // const { Search } = Input;
 
@@ -38,6 +39,9 @@ export class CesiumContainer {
   public mapboxMap?: Cesium.MapboxStyleImageryProvider;
   constructor(props: CesiumContainerProps) {
     this.init(props);
+
+    console.log('cesium update 1.0.3');
+
   }
 
   public componentDidMount() {
@@ -110,13 +114,23 @@ export class CesiumContainer {
         // roll: 0.0
       }
     });
+    this.initAdcode();
   };
+
+  public initAdcode() {
+
+    new Adcode({
+      viewer: this.viewer,
+    } as AdcodeProps);
+
+
+  }
 
   // public mapboxMapStatus(status: boolean = true) {
   //   this.mapboxMap.show = status;
   // }
 
-  private _googleMap = () => {
+  public _googleMap = () => {
     var esriImageryProvider = new Cesium.ArcGisMapServerImageryProvider({
       url: 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer'
     });

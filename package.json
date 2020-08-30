@@ -12,7 +12,8 @@
     "bbuild": "tsc -p . & cpx \"src/res/**/*\" \"lib/res\"",
     "dbuild": "webpack --mode=development --config webpack.config.js --progress --colors",
     "pbuild": "webpack --mode=production --config webpack.config.js --progress --colors",
-    "copy": "xcopy .\\lib ..\\center-control\\node_modules\\vtouch-map\\lib /s /e /i /Y",
+    "copy": " npm run pbuild && xcopy .\\lib ..\\aicgz\\node_modules\\icesium\\lib /s /e /i /Y",
+    "acopy": " npm run pbuild && npm run copy ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -31,10 +32,11 @@
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
-    "webpack-node-externals": "^2.5.1"
+    "webpack-node-externals": "^2.5.2"
   },
   "dependencies": {
     "antd": "^4.5.4",
+    "axios": "^0.20.0",
     "cesium": "^1.72.0",
     "dbuild": "^1.0.0",
     "react": "^16.13.1",

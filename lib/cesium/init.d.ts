@@ -10,7 +10,8 @@ export declare class CesiumContainer {
     constructor(props: CesiumContainerProps);
     componentDidMount(): void;
     init(props: CesiumContainerProps): void;
-    private _googleMap;
+    initAdcode(): void;
+    _googleMap: () => void;
     _mapboxMap: () => void;
     search(input: string): Promise<any>;
 }
