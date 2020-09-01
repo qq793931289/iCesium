@@ -1,0 +1,11 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+<defs>
+<style>.cls-1{fill:none;}.cls-2,.cls-3,.cls-5{fill:#4387ff;}.cls-2{opacity:0.4;}.cls-3{opacity:0.7;}.cls-4{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<path class="cls-1" d="M13.35-46c-.5,0-1,.51-1.27.89-.31-.38-.78-.89-1.28-.89a1.64,1.64,0,0,0-1.64,1.65,2.12,2.12,0,0,0,.47,1.24,11.9,11.9,0,0,0,2.23,2,.38.38,0,0,0,.43,0,11.9,11.9,0,0,0,2.23-2A2.12,2.12,0,0,0,15-44.37,1.64,1.64,0,0,0,13.35-46Z"/>
+</clipPath>
+</defs>
+<path class="cls-2" fill="#4387ff" opacity="0.4" d="M12,12.94a8,8,0,0,1,7.16,4.44,9,9,0,1,0-14.31,0A8,8,0,0,1,12,12.94Z"/>
+<path class="cls-3" fill="#4387ff" opacity="0.7" d="M12,20.94a9,9,0,0,0,7.16-3.56,8,8,0,0,0-14.31,0A9,9,0,0,0,12,20.94Z"/>
+<circle class="cls-5" fill="#4387ff" cx="12.03" cy="9.94" r="3"/>
+</svg>

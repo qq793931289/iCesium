@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="106px" viewBox="0 0 142 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="142" height="106" rx="4"></rect>
+        <path d="M142,70 L0,70 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L138,0 C140.209139,-4.05812251e-16 142,1.790861 142,4 L142,70 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-copy-5">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <rect stroke="#E2E8ED" stroke-width="0.5" x="0.25" y="0.25" width="141.5" height="105.5" rx="4"></rect>
+            <g id="分组" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#FF4663" fill-rule="nonzero" xlink:href="#path-3"></use>
+                <g opacity="0.708961124" mask="url(#mask-4)" fill-rule="nonzero">
+                    <g transform="translate(-12.000000, 0.000000)">
+                        <polygon id="三角形" fill="#F22A3C" opacity="0.916201637" points="104.5 -4.54747351e-13 132 70 74 70"></polygon>
+                        <polygon id="三角形-copy-2" fill="#F22A3C" opacity="0.916201637" points="30.5 0 58 70 1.65556457e-12 70"></polygon>
+                        <polygon id="三角形-copy" fill="#FB515E" opacity="0.596237909" points="65.5 0 93 70 35 70"></polygon>
+                        <polygon id="三角形-copy-3" fill="#FB515E" opacity="0.596237909" points="140.5 0 168 70 110 70"></polygon>
+                    </g>
+                </g>
+                <g id="分组-copy" opacity="0.70265997" mask="url(#mask-4)" fill-rule="nonzero">
+                    <g transform="translate(72.000000, 35.000000) rotate(-180.000000) translate(-72.000000, -35.000000) translate(-12.000000, 0.000000)">
+                        <polygon id="三角形" fill="#F02134" opacity="0.478794643" points="104.5 -4.54747351e-13 132 70 74 70"></polygon>
+                        <polygon id="三角形-copy-2" fill="#F02134" opacity="0.478794643" points="30.5 0 58 70 1.65556457e-12 70"></polygon>
+                        <polygon id="三角形-copy" fill="#FF666D" opacity="0.403645833" points="65.5 0 93 70 35 70"></polygon>
+                        <polygon id="三角形-copy-3" fill="#FF666D" opacity="0.596237909" points="140.5 0 168 70 110 70"></polygon>
+                    </g>
+                </g>
+                <text id="PDF" mask="url(#mask-4)" font-family="PingFangSC-Medium, PingFang SC" font-size="20" font-weight="400" fill="#FFFFFF">
+                    <tspan x="70" y="41">PDF</tspan>
+                </text>
+            </g>
+            <path d="M4.13894395,-3.57817674 C5.21218699,-5.72270765 8.38791908,-7.74178506 13.7761328,-6.73224635 C19.1643465,-5.72270765 19.4954897,6.51058928 18.0911034,11.4335397 C16.6867171,16.3564901 11.2770564,44.3795209 8.96109406,52.097011 C6.64513173,59.814501 5.34981503,63.1736494 0.133523084,65.6351246 C-5.08276886,68.0965998 -13.0329447,57.5409544 -6.59348643,50.8662734 C-1.05368429,45.1241114 22.4030771,39.0511924 42.0644852,39.5434874 C61.7258933,40.0357825 60.321507,40.5280775 61.7258933,41.2665201 C63.1302796,42.0049626 67.7213165,46.2818414 65.3137971,50.0350962 C62.9062777,53.7883509 57.9884845,56.2218367 54.5813667,53.6993195 C34.7157974,38.9915102 28.8235338,32.8788488 14.8713743,18.9393979 C0.919214835,4.99994693 3.06570091,-1.43364582 4.13894395,-3.57817674 Z" id="路径-2" stroke="#CA2D3D" stroke-width="8.6144" opacity="0.39125279" style="mix-blend-mode: multiply;" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <path d="M30.4307635,19.453103 C30.8743706,18.5424118 32.1870066,17.6849954 34.4141349,18.1137036 C36.6412632,18.5424118 36.7781358,23.7373735 36.1976561,25.8279415 C35.6171764,27.9185095 33.3811833,39.8187007 32.4239189,43.095991 C31.4666545,46.3732812 30.9312569,47.7997689 28.7751895,48.8450529 C26.6191222,49.8903369 23.3330495,45.4078025 25.9946923,42.573349 C28.2844772,40.1348966 37.9799386,37.5559858 46.1066539,37.7650426 C54.2333692,37.9740994 53.6528896,38.1831562 54.2333692,38.4967414 C54.8138489,38.8103266 56.7114775,40.6265354 55.7163695,42.2203833 C54.7212615,43.8142312 52.6885736,44.8476293 51.2802982,43.7764234 C43.0691963,37.5306413 40.6337273,34.9348536 34.8668347,29.0153607 C29.0999421,23.0958679 29.9871564,20.3637942 30.4307635,19.453103 Z" id="路径-2-copy" stroke="#FFFFFF" stroke-width="3.6144" fill-rule="nonzero" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

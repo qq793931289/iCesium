@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="13px" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计案例" transform="translate(-100.000000, -278.000000)" fill="#4387FF" fill-rule="nonzero">
+            <g id="第一屏-copy">
+                <path d="M106.621781,280.60907 L110.749757,286.329686 C111.396103,287.225404 111.193948,288.475494 110.29823,289.12184 C109.957529,289.367689 109.548058,289.5 109.127916,289.5 L100.871966,289.5 C99.7673967,289.5 98.8719662,288.604569 98.8719662,287.5 C98.8719662,287.079859 99.0042775,286.670387 99.250126,286.329686 L103.378101,280.60907 C104.024448,279.713353 105.274538,279.511198 106.170255,280.157544 C106.343975,280.282899 106.496426,280.435351 106.621781,280.60907 Z" id="Triangle" transform="translate(105.000000, 284.500000) rotate(90.000000) translate(-105.000000, -284.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

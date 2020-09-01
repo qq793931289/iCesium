@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitThis": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "strictPropertyInitialization": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "target": "es6",
+    "declaration": false,
+    "outDir": "./",
+    "sourceMap": false,
+    "lib": [
+      "dom",
+      "es7"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "lib",
+    "es",
+    "./src/cesium/cesiumutils/coordinatetools"
+  ],
+  "include": [
+    "src/**/*",
+    "declaration.d.ts"
+  ]
+}

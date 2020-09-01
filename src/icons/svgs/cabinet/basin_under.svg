@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="35px" viewBox="0 0 62 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="橱柜定制" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="水槽属性面板" transform="translate(-154.000000, -373.000000)">
+            <g id="矩形洞-copy" transform="translate(136.000000, 345.000000)">
+                <g id="分组-2" transform="translate(18.000000, 30.000000)">
+                    <path d="M6,14 L6,18 L8,18 L8,23 C8,23.5522847 7.55228475,24 7,24 L1,24 C0.44771525,24 6.76353751e-17,23.5522847 0,23 L0,15 C-6.76353751e-17,14.4477153 0.44771525,14 1,14 L6,14 Z" id="合并形状" fill="#4387FF" fill-rule="nonzero"></path>
+                    <path d="M60,14 L60,18 L62,18 L62,23 C62,23.5522847 61.5522847,24 61,24 L55,24 C54.4477153,24 54,23.5522847 54,23 L54,15 C54,14.4477153 54.4477153,14 55,14 L60,14 Z" id="合并形状-copy" fill="#4387FF" fill-rule="nonzero" transform="translate(58.000000, 19.000000) scale(-1, 1) translate(-58.000000, -19.000000) "></path>
+                    <polygon id="矩形" fill="#E4F1FF" fill-rule="nonzero" points="14 8 21 8 20 15 15 15"></polygon>
+                    <path d="M31,15.6967673 L31,2.8 C31,1.2536 32.3431429,-8.79296636e-14 34,-8.79296636e-14 C35.6568571,-8.79296636e-14 37,1.2536 37,2.8 L37,4.85421429" id="Stroke-1" stroke="#E4F1FF" stroke-width="3"></path>
+                    <path d="M9,18 L53,18 L52.2358372,22.862854 C51.3186583,28.6994469 46.2895292,33 40.3813117,33 L21.6186883,33 C15.7104708,33 10.6813417,28.6994469 9.76416277,22.862854 L9,18 Z" id="矩形" fill="#E4F1FF" fill-rule="nonzero"></path>
+                    <rect id="矩形" fill="#9BCBFF" fill-rule="nonzero" x="7" y="15" width="48" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3,.cls-4,.cls-5{fill:#434c5d;}.cls-3{opacity:0.4;}.cls-5{opacity:0.7;}</style>
+<clipPath id="clip-path">
+<path class="cls-1" d="M63.35-16.06c-.5,0-1,.51-1.27.89-.31-.38-.78-.89-1.28-.89a1.64,1.64,0,0,0-1.64,1.65,2.12,2.12,0,0,0,.47,1.24,11.9,11.9,0,0,0,2.23,2,.38.38,0,0,0,.43,0,11.9,11.9,0,0,0,2.23-2A2.12,2.12,0,0,0,65-14.41,1.64,1.64,0,0,0,63.35-16.06Z"/>
+</clipPath>
+</defs>
+<path class="cls-3" fill="#434c5d" opacity="0.4" d="M12,10.94H3v10H8a4,4,0,0,1,4-4h0Z"/>
+<polygon class="cls-4" fill="#434c5d" points="21.03 7.94 12.03 16.94 12.03 10.94 21.03 2.94 21.03 7.94"/>
+<polygon class="cls-5" fill="#434c5d" opacity="0.7" points="12.03 10.94 3.03 10.94 13.03 2.94 21.03 2.94 12.03 10.94"/>
+</svg>

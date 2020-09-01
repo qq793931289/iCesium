@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.6%" y="-7.8%" width="111.1%" height="115.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.137254902   0 0 0 0 0.156862745   0 0 0 0 0.188235294  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="欢迎页面-copy" transform="translate(-244.000000, -442.000000)">
+            <g id="弹窗" filter="url(#filter-1)" transform="translate(233.000000, 64.000000)">
+                <g id="欢迎页面/常见" transform="translate(30.000000, 391.000000)">
+                    <rect id="矩形-copy" fill="#FEC400" fill-rule="nonzero" x="0" y="0" width="16" height="16" rx="8"></rect>
+                    <path d="M8,10.8 L6.50187474,11.5876111 C6.01303015,11.8446119 5.408403,11.6566653 5.15140219,11.1678208 C5.04906312,10.9731603 5.01374845,10.7501922 5.05092529,10.5334346 L5.33704175,8.86524758 L4.12503296,7.683831 C3.72954938,7.29832978 3.72145708,6.66521652 4.10695829,6.26973294 C4.26046689,6.11224931 4.4616093,6.00976213 4.67924633,5.97813762 L6.35420129,5.73475242 L7.10326392,4.21698575 C7.34768622,3.72173209 7.94731205,3.51839309 8.44256571,3.76281539 C8.63977832,3.86014562 8.79940584,4.01977315 8.89673608,4.21698575 L9.64579871,5.73475242 L11.3207537,5.97813762 C11.8672985,6.05755524 12.24598,6.56499809 12.1665624,7.11154295 C12.1349379,7.32917998 12.0324507,7.53032239 11.874967,7.683831 L10.6629582,8.86524758 L10.9490747,10.5334346 C11.0424357,11.077771 10.6768479,11.594727 10.1325114,11.688088 C9.91575382,11.7252648 9.69278574,11.6899501 9.49812526,11.5876111 L8,10.8 Z" id="星形" fill="#FE9700" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

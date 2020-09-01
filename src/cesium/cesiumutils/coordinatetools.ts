@@ -1,11 +1,10 @@
-
-
+/* tslint:disable */
 
 // package wewell.com.qcl.util;
 
 const debug = false;
 
-const x_pi = 3.14159265358979324 * 3000.0 / 180.0;
+const x_pi: number = 3.14159265358979324 * 3000.0 / 180.0;
 //pai
 const pi = 3.1415926535897932384626;
 //离心率
@@ -47,7 +46,7 @@ function gcj02towgs84(lng: number, lat: number) {
 
   const x = lng * 2 - mglng;
   const y = lat * 2 - mglat;
-  debug &&console.log([x, y], 'gcj02towgs84');
+  debug && console.log([x, y], 'gcj02towgs84');
   return [x, y];
 };
 
@@ -57,7 +56,7 @@ function transformlat(lng: number, lat: number) {
   ret += (20.0 * Math.sin(6.0 * lng * pi) + 20.0 * Math.sin(2.0 * lng * pi)) * 2.0 / 3.0;
   ret += (20.0 * Math.sin(lat * pi) + 40.0 * Math.sin(lat / 3.0 * pi)) * 2.0 / 3.0;
   ret += (160.0 * Math.sin(lat / 12.0 * pi) + 320 * Math.sin(lat * pi / 30.0)) * 2.0 / 3.0;
-  debug &&console.log(ret, 'transformlat');
+  debug && console.log(ret, 'transformlat');
   return ret;
 }
 //纬度转换
@@ -66,7 +65,7 @@ function transformlng(lng: number, lat: number) {
   ret += (20.0 * Math.sin(6.0 * lng * pi) + 20.0 * Math.sin(2.0 * lng * pi)) * 2.0 / 3.0;
   ret += (20.0 * Math.sin(lng * pi) + 40.0 * Math.sin(lng / 3.0 * pi)) * 2.0 / 3.0;
   ret += (150.0 * Math.sin(lng / 12.0 * pi) + 300.0 * Math.sin(lng / 30.0 * pi)) * 2.0 / 3.0;
-  debug &&console.log(ret, 'transformlng');
+  debug && console.log(ret, 'transformlng');
   return ret;
 }
 
@@ -75,15 +74,15 @@ function getWgs84xy(x: number, y: number) {
   //先转 国测局坐标
 
   const doubles_gcj = bd09togcj02(x, y);//（x 117. y 36. ）
-  debug &&console.log(doubles_gcj, 'doubles_gcj');
+  debug && console.log(doubles_gcj, 'doubles_gcj');
 
   //国测局坐标转wgs84
 
   const doubles_wgs84 = gcj02towgs84(doubles_gcj[0], doubles_gcj[1]);
-  debug &&console.log(doubles_wgs84, 'doubles_wgs84');
+  debug && console.log(doubles_wgs84, 'doubles_wgs84');
 
-  debug &&console.log(doubles_wgs84, 'getWgs84xy');
-  debug &&console.log(doubles_wgs84, '坐标');
+  debug && console.log(doubles_wgs84, 'getWgs84xy');
+  debug && console.log(doubles_wgs84, '坐标');
   //返回 纠偏后 坐标
   // return doubles_wgs84[0] + "," + doubles_wgs84[1];
   return doubles_wgs84;
@@ -91,13 +90,12 @@ function getWgs84xy(x: number, y: number) {
 
 const res = getWgs84xy(113, 23);
 
-debug &&console.log(res, 'wgs84 数据');
+debug && console.log(res, 'wgs84 数据');
 
 
 const res1 = gcj02towgs84(129.1312655 - 10, 34.4487351 - 10);
 
-debug &&console.log(res1, 'wgs84 数据');
-
+debug && console.log(res1, 'wgs84 数据');
 
 
 export class CoordinateTools {
@@ -105,6 +103,5 @@ export class CoordinateTools {
   public static getWgs84xy(lng: number, lat: number) {
     return getWgs84xy(lng, lat);
   }
-
 
 }

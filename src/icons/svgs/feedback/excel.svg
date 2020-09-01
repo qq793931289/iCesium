@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="106px" viewBox="0 0 142 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="142" height="106" rx="4"></rect>
+        <path d="M142,70 L0,70 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L138,0 C140.209139,-4.05812251e-16 142,1.790861 142,4 L142,70 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-copy-8">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <rect stroke="#E2E8ED" stroke-width="0.5" x="0.25" y="0.25" width="141.5" height="105.5" rx="4"></rect>
+            <g id="分组" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#2BCA97" fill-rule="nonzero" xlink:href="#path-3"></use>
+                <g opacity="0.254464286" mask="url(#mask-4)" fill-opacity="0.8" fill-rule="nonzero">
+                    <g transform="translate(-12.000000, 0.000000)">
+                        <polygon id="三角形" fill="#B7FFEF" opacity="0.795340402" points="104.5 -4.54747351e-13 132 70 74 70"></polygon>
+                        <polygon id="三角形-copy-2" fill="#B7FFEF" opacity="0.795340402" points="30.5 0 58 70 1.65556457e-12 70"></polygon>
+                        <polygon id="三角形-copy" fill="#1CA8A5" opacity="0.596237909" points="65.5 0 93 70 35 70"></polygon>
+                        <polygon id="三角形-copy-3" fill="#1CA8A5" opacity="0.596237909" points="140.5 0 168 70 110 70"></polygon>
+                    </g>
+                </g>
+                <g id="分组-copy" opacity="0.462611607" mask="url(#mask-4)" fill-rule="nonzero">
+                    <g transform="translate(72.000000, 35.000000) rotate(-180.000000) translate(-72.000000, -35.000000) translate(-12.000000, 0.000000)">
+                        <polygon id="三角形" fill="#37D7B3" opacity="0.795340402" points="104.5 -4.54747351e-13 132 70 74 70"></polygon>
+                        <polygon id="三角形-copy-2" fill="#37D7B3" opacity="0.795340402" points="30.5 0 58 70 1.65556457e-12 70"></polygon>
+                        <polygon id="三角形-copy" fill="#1CA8A5" opacity="0.403645833" points="65.5 0 93 70 35 70"></polygon>
+                        <polygon id="三角形-copy-3" fill="#1CA8A5" opacity="0.596237909" points="140.5 0 168 70 110 70"></polygon>
+                    </g>
+                </g>
+                <text id="Excel" mask="url(#mask-4)" font-family="PingFangSC-Medium, PingFang SC" font-size="20" font-weight="400" fill="#FFFFFF">
+                    <tspan x="70" y="41">Excel</tspan>
+                </text>
+                <text id="X" opacity="0.2" style="mix-blend-mode: multiply;" mask="url(#mask-4)" font-family="PingFangSC-Semibold, PingFang SC" font-size="102" font-weight="500" fill="#0E705A">
+                    <tspan x="-25" y="72">X</tspan>
+                </text>
+                <text id="X" mask="url(#mask-4)" font-family="PingFangSC-Semibold, PingFang SC" font-size="34" font-weight="500" fill="#FFFFFF">
+                    <tspan x="23" y="44">X</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

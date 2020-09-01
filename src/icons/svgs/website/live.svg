@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="19px" viewBox="0 0 29 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="88.6328491%" y1="16.183889%" x2="9.17778798%" y2="85.3327434%" id="linearGradient-1">
+            <stop stop-color="#FF8509" offset="0%"></stop>
+            <stop stop-color="#FF0424" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="教学视频首页" transform="translate(-105.000000, -812.000000)">
+            <g id="分组-2" transform="translate(100.000000, 794.000000)">
+                <g id="最火案例" transform="translate(5.000000, 0.000000)">
+                    <g id="分组-4" transform="translate(0.000000, 18.000000)">
+                        <path d="M24.1666667,5.56122506 L26.1613268,4.42780703 C27.0736658,3.90939212 28.2335211,4.22873074 28.751936,5.1410698 C28.9145212,5.42719743 29,5.75064887 29,6.07974304 L29,12.9204938 C29,13.9698348 28.149341,14.8204938 27.1,14.8204938 C26.7709058,14.8204938 26.4474544,14.735015 26.1613268,14.5724298 L24.1666667,13.4390118 L24.1666667,15.2 C24.1666667,17.298682 22.4653487,19 20.3666667,19 L3.8,19 C1.70131795,19 -1.87074784e-16,17.298682 -4.4408921e-16,15.2 L0,3.8 C-2.57014425e-16,1.70131795 1.70131795,-5.02656782e-16 3.8,-8.8817842e-16 L20.3666667,4.4408921e-16 C22.4653487,-1.80543653e-15 24.1666667,1.70131795 24.1666667,3.8 L24.1666667,5.56122506 Z" id="合并形状" fill="url(#linearGradient-1)"></path>
+                        <text id="LIVE" font-family="Helvetica-Bold, Helvetica" font-size="7.6" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="4.1078125" y="12">LIVE</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

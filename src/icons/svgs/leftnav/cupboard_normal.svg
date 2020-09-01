@@ -1,0 +1,8 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs>
+<style>.cls-1,.cls-2,.cls-3{fill:#434c5d;}.cls-1{opacity:0.4;}.cls-2{opacity:0.7;}</style></defs>
+<title></title>
+<path fill='#434c5d' opacity='0.4' class="cls-1" d="M19.47,2h-15A1.5,1.5,0,0,0,3,3.45V18.67a1.5,1.5,0,0,0,1.54,1.45h.3v.94a1,1,0,0,0,2,0v-.94h10v.94a1,1,0,0,0,2,0v-.94h.66A1.5,1.5,0,0,0,21,18.67V3.45A1.5,1.5,0,0,0,19.47,2Z"/>
+<path fill='#434c5d' opacity='0.7' class="cls-2" d="M5,4V9H19V4Zm9,2H10V5h4Z"/>
+<path fill='#434c5d' class="cls-3" d="M5,11v7h6V11Zm5,4H9V13h1Z"/>
+<path fill='#434c5d' class="cls-3" d="M13,11v7h6V11Zm5,4H17V13h1Z"/>
+</svg>

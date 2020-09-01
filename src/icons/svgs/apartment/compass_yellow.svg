@@ -1,0 +1,11 @@
+<svg width="58" height="106" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <ellipse ry="25" rx="25" id="svg_4" cy="54.000003" cx="28.999997" stroke-width="0" stroke="#000" fill="#f3f0e7"/>
+  <g id="svg_1" transform="rotate(0.2573053538799286 28.99996948242406,53.999984741211335) " class="svg-compass" stroke="null">
+   <polygon id="svg_2" points="29.000030517578125,32.602264404296875 24.11968994140625,53.704864501953125 33.88031005859375,53.704864501953125 " fill="#C7BEAD" stroke="null"/>
+   <polygon id="svg_3" points="29.000030517578125,75.39773559570312 24.11968994140625,53.704864501953125 33.88031005859375,53.704864501953125 " fill="#FFFFFF" stroke="null"/>
+  </g>
+  <text fill="#c7bead" stroke-width="0" stroke-opacity="null" x="-54.10903" y="5.098312" id="svg_5" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.7691360712051392,0,0,0.8863108158111572,65.63389350660145,15.051382150501013) " stroke="#000">N</text>
+  <text fill="#c7bead" stroke-width="0" stroke-opacity="null" x="-53.616919" y="95.364668" id="svg_6" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.7691360712051392,0,0,0.8863108158111572,65.63389350660145,15.051382150501013) " stroke="#000">S</text>
+ </g>
+</svg>

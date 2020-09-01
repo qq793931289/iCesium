@@ -1,0 +1,31 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs>
+<style>
+.cls-1{fill:#fff;}
+.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{fill:#fec400;}
+.cls-3{opacity:0.85;}
+.cls-4{opacity:0.7;}
+.cls-5{opacity:0.55;}
+.cls-6{opacity:0.4;}
+.cls-7{opacity:0.25;}
+.cls-8{opacity:0.1;}
+.cls-9{opacity:0;}
+</style>
+</defs>
+<path class="cls-1" fill="#fff" d="M12,3a1,1,0,0,0-1,1V7a1,1,0,0,0,2,0V4A1,1,0,0,0,12,3Z"/>
+<path class="cls-1" fill="#fff" d="M7.05,5.64A1,1,0,0,0,5.64,7.05L7.76,9.17A1,1,0,0,0,9.17,7.76Z"/>
+<path class="cls-1" fill="#fff" d="M8,12a1,1,0,0,0-1-1H4a1,1,0,0,0,0,2H7A1,1,0,0,0,8,12Z"/>
+<path class="cls-1" fill="#fff" d="M7.76,14.83,5.64,17a1,1,0,1,0,1.41,1.41l2.12-2.12a1,1,0,0,0-1.41-1.41Z"/>
+<path class="cls-1" fill="#fff" d="M12,16a1,1,0,0,0-1,1v3a1,1,0,0,0,2,0V17A1,1,0,0,0,12,16Z"/>
+<path class="cls-1" fill="#fff" d="M16.24,14.83a1,1,0,0,0-1.41,1.41L17,18.36A1,1,0,1,0,18.36,17Z"/>
+<path class="cls-1" fill="#fff" d="M20,11H17a1,1,0,0,0,0,2h3a1,1,0,0,0,0-2Z"/>
+
+<path class="cls-1" d="M16.24,9.17l2.12-2.12A1,1,0,1,0,17,5.64L14.83,7.76a1,1,0,0,0,1.41,1.41Z"/>
+<path class="cls-2" d="M12,3a1,1,0,0,0-1,1V7a1,1,0,0,0,2,0V4A1,1,0,0,0,12,3Z"/>
+<path class="cls-3" opacity="0.85" d="M7.05,5.64A1,1,0,0,0,5.64,7.05L7.76,9.17A1,1,0,0,0,9.17,7.76Z"/>
+<path class="cls-4" opacity="0.7" d="M8,12a1,1,0,0,0-1-1H4a1,1,0,0,0,0,2H7A1,1,0,0,0,8,12Z"/>
+<path class="cls-5" opacity="0.55" d="M7.76,14.83,5.64,17a1,1,0,1,0,1.41,1.41l2.12-2.12a1,1,0,0,0-1.41-1.41Z"/>
+<path class="cls-6" opacity="0.4" d="M12,16a1,1,0,0,0-1,1v3a1,1,0,0,0,2,0V17A1,1,0,0,0,12,16Z"/>
+<path class="cls-7" opacity="0.25" d="M16.24,14.83a1,1,0,0,0-1.41,1.41L17,18.36A1,1,0,1,0,18.36,17Z"/>
+<path class="cls-8" opacity="0.1" d="M20,11H17a1,1,0,0,0,0,2h3a1,1,0,0,0,0-2Z"/>
+<path class="cls-9" opacity="0" d="M16.24,9.17l2.12-2.12A1,1,0,1,0,17,5.64L14.83,7.76a1,1,0,0,0,1.41,1.41Z"/>
+</svg>

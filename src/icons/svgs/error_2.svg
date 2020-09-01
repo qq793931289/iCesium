@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="悬浮提示框--一字飘窗-copy" transform="translate(-1371.000000, -699.000000)">
+            <g id="Group-3" transform="translate(1136.000000, 673.000000)">
+                <g id="normal-copy-3" transform="translate(235.000000, 26.000000)">
+                    <circle id="Oval" fill="#4386FF" cx="16" cy="16" r="16"></circle>
+                    <path d="M21.704633,11.2822244 C22.0984557,11.6585236 22.0984557,12.2686251 21.704633,12.6449243 L11.7215253,22.1838234 C11.3277026,22.5601226 10.6891898,22.5601226 10.295367,22.1838234 C9.90154432,21.8075242 9.90154432,21.1974227 10.295367,20.8211235 L20.2784747,11.2822244 C20.6722974,10.9059252 21.3108102,10.9059252 21.704633,11.2822244 Z" id="Rectangle-4" fill="#FFFFFF"></path>
+                    <path d="M21.704633,22.1838234 C21.3108102,22.5601226 20.6722974,22.5601226 20.2784747,22.1838234 L10.295367,12.6449243 C9.90154432,12.2686251 9.90154432,11.6585236 10.295367,11.2822244 C10.6891898,10.9059252 11.3277026,10.9059252 11.7215253,11.2822244 L21.704633,20.8211235 C22.0984557,21.1974227 22.0984557,21.8075242 21.704633,22.1838234 Z" id="Rectangle-4-Copy" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

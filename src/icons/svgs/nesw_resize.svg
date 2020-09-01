@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="相机剪切+相机位置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="相机视角normal" transform="translate(-1160.000000, -196.000000)">
+            <g id="Group-2" transform="translate(1164.485281, 203.485281) rotate(-45.000000) translate(-1164.485281, -203.485281) translate(1158.485281, 197.485281)">
+                <path d="M2,2.5593972 L2,9.44138818 C2,9.74935794 2.24934016,10 2.55868197,10 L9.44153721,10 C9.93888417,10 10.186891,9.3973925 9.83488132,9.04676026 L2.95335945,2.16476928 C2.60134981,1.81280383 2,2.06211269 2,2.5593972" id="Fill-1" fill="#d4d9e2" transform="translate(6.000000, 6.000000) rotate(45.000000) translate(-6.000000, -6.000000) "></path>
+                <path d="M9,1 L9,11" id="Path-4" stroke="#d4d9e2" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

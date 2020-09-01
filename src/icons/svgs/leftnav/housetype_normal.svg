@@ -1,0 +1,8 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+<defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3,.cls-4,.cls-5{fill:#434c5d;}.cls-3{opacity:0.4;}.cls-5{opacity:0.7;}</style>
+<clipPath id="clip-path">
+<path class="cls-1" fill='none' d="M-86.68-75.08c-.5,0-1,.51-1.27.89-.31-.38-.77-.89-1.28-.89a1.65,1.65,0,0,0-1.64,1.66,2.12,2.12,0,0,0,.48,1.23,11,11,0,0,0,2.23,2,.36.36,0,0,0,.42,0,11.54,11.54,0,0,0,2.23-2A2.12,2.12,0,0,0-85-73.42,1.65,1.65,0,0,0-86.68-75.08Z"/></clipPath></defs>
+<path class="cls-3" fill='#434c5d' opacity='0.4' d="M13,6.94h6a1,1,0,0,1,1,1V19.06a1,1,0,0,1-1,1H13a0,0,0,0,1,0,0V6.94A0,0,0,0,1,13,6.94Z"/>
+<path class="cls-4" fill='#434c5d' d="M5,3.87h7a1,1,0,0,1,1,1v7.07a0,0,0,0,1,0,0H4a0,0,0,0,1,0,0V4.87A1,1,0,0,1,5,3.87Z"/>
+<path class="cls-5" fill='#434c5d' opacity='0.7' d="M4,11.63h9a0,0,0,0,1,0,0v8.44a0,0,0,0,1,0,0H5a1,1,0,0,1-1-1V11.63A0,0,0,0,1,4,11.63Z"/>
+</svg>

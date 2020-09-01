@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="29.5247944%" y2="84.0500982%" id="linearGradient-1">
+            <stop stop-color="#FF5695" offset="0%"></stop>
+            <stop stop-color="#FF1554" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计案例" transform="translate(-107.000000, -2867.000000)" fill="url(#linearGradient-1)">
+            <g id="猜你喜欢" transform="translate(100.000000, 2850.000000)">
+                <g id="Group-2" transform="translate(7.000000, 17.000000)">
+                    <path d="M15.2366667,0 C13.3571667,0 11.6013333,1.0182099 10.5093333,2.69949797 C9.4255,1.0182099 7.66266667,0 5.76333333,0 C2.58533333,0 0,2.82863678 0,6.30545109 C0,7.89857707 0.547166667,9.42465021 1.55166667,10.6142174 L9.78016667,19.5868817 C9.989,19.7917654 10.248,19.9047619 10.507,19.9047619 C10.766,19.9047619 11.0238333,19.7917654 11.2513333,19.5707394 L19.474,10.6005585 C20.4586667,9.43334225 21,7.90851083 21,6.30545109 C21,2.82863678 18.4146667,0 15.2366667,0" id="Fill-1-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

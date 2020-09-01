@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="37px" viewBox="0 0 47 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFF209" offset="0%"></stop>
+            <stop stop-color="#FFC004" offset="100%"></stop>
+        </linearGradient>
+        <path d="M697,873.020383 C697,874.035066 696.403527,874.901259 695.547329,875.299001 L689.827998,889.753816 L665.000046,889.753816 L659.232352,875.177027 C658.497956,874.742163 658,873.943144 658,873.020383 C658,871.634475 659.112341,870.510192 660.482616,870.510192 C661.854682,870.510192 662.965232,871.634475 662.965232,873.020383 C662.965232,873.573686 662.782529,874.081028 662.483397,874.494679 L663.584991,877.379632 C664.901529,880.826726 668.430212,882.661641 671.468103,881.477254 C673.846829,880.549191 675.209939,878.042534 675.057686,875.341427 L675.057686,873.697428 C674.468378,873.092861 674.102972,872.26379 674.102972,871.346333 C674.102972,869.499044 675.584302,868 677.413126,868 C679.241951,868 680.725072,869.499044 680.725072,871.346333 C680.725072,872.286771 680.339962,873.133519 679.721995,873.741622 L679.721995,875.779826 L679.734534,875.779826 C679.745281,878.309463 681.09227,880.598687 683.342029,881.477254 C686.376338,882.661641 689.906811,880.826726 691.22335,877.379632 L692.396592,874.307299 C692.1709,873.93077 692.034768,873.494138 692.034768,873.020383 C692.034768,871.634475 693.145318,870.510192 694.517384,870.510192 C695.887659,870.510192 697,871.634475 697,873.020383 Z M664.062913,897 L664.062913,893.003369 L690.333982,893.003369 L690.333982,897 L664.062913,897 Z" id="path-2"></path>
+        <filter x="-17.9%" y="-17.2%" width="135.9%" height="148.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.802641737   0 0 0 0 0.394767992  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="品牌馆" transform="translate(-654.000000, -866.000000)">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
