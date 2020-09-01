@@ -26,7 +26,7 @@ export class Adcode {
       }
     })
       .then((res) => {
-        console.log("返回结果==>", res);
+        // console.log("返回结果==>", res);
 
         this.addDataToGlobe(res.data.features);
 
@@ -37,7 +37,7 @@ export class Adcode {
   }
 
   public addDataToGlobe = (features: any[]) => {
-    console.log(features);
+    // console.log(features);
     const instances = [];
     for (let i = 0; i < features.length; i++) {
       for (let j = 0; j < features[i].geometry.coordinates.length; j++) {
@@ -53,7 +53,7 @@ export class Adcode {
         instances.push(new Cesium.GeometryInstance({
           geometry: geometry as any,
           attributes: {
-            color: Cesium.ColorGeometryInstanceAttribute.fromColor(Cesium.Color.fromRandom({ alpha: 0.7 })),
+            color: Cesium.ColorGeometryInstanceAttribute.fromColor(Cesium.Color.fromRandom({ alpha: 0.2 })),
           },
         }));
       }
