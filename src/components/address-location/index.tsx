@@ -1,13 +1,14 @@
 import * as React from 'react';
 // import * as iCesium from 'icesium';
 import 'antd/dist/antd.css';
+import './style';
 
 import { Input } from 'antd';
 // import { CesiumContainer } from '../../cesium/ui.comp';
-import { CesiumRun } from '../..';
+import { Earth } from '../..';
 import { BaseContainer } from '../ui/base';
 // import { App } from '../../config';
-import { AddressLocation } from '../../cesium/cesiumutils/addresslocation';
+import { AddressLocation } from '../../utils/addresslocation';
 // import { cesConfig } from './config';
 const { Search } = Input;
 
@@ -17,7 +18,7 @@ export interface CesiumContainerProps {
 
 export class AddressLocationComponent extends React.Component {
 
-  private _iCesium?: CesiumRun;
+  private _earth?: Earth;
   // private _container?: HTMLDivElement | null;
   public myInput = React.createRef();
   public ref: any;
@@ -36,10 +37,10 @@ export class AddressLocationComponent extends React.Component {
   }
 
   public componentDidMount() {
-    this._iCesium = new CesiumRun();
+    this._earth = new Earth();
 
     this._addressLocation = new AddressLocation({
-      viewer: this._iCesium.viewer,
+      viewer: this._earth.viewer,
     });
 
     // this.myInput = React.createRef();

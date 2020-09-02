@@ -22,6 +22,6 @@ function CatalogSample() {
 CatalogSample();
 
 export default {
-  order: 20,
+  order: 21,
   comp: () => { return (<div />); },
 };

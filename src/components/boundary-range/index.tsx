@@ -1,17 +1,17 @@
 import * as React from 'react';
-import { BaseContainer } from '../ui/base';
-import { CesiumRun } from '../..';
-import { BoundaryRange } from '../../cesium/cesiumutils/boundaryrange';
+import { BaseContainer } from '../';
+import { Earth } from '../..';
+import { BoundaryRange } from '../../';
 
 export class BoundaryRangeComponent extends React.Component {
 
-  private _iCesium?: CesiumRun;
+  private _earth?: Earth;
   public _boundaryrange?: BoundaryRange;
 
   public componentDidMount() {
-    this._iCesium = new CesiumRun();
+    this._earth = new Earth();
     this._boundaryrange = new BoundaryRange({
-      viewer: this._iCesium.viewer,
+      viewer: this._earth.viewer,
     });
     this.boundaryByAdcode(100000, true);
   }

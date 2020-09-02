@@ -1,6 +1,6 @@
 
 import * as Cesium from 'cesium';
-import { API } from '../../api/api';
+import { API } from '../api/api';
 import { CoordinateTools } from './coordinatetools';
 import { message } from 'antd';
 

@@ -8,6 +8,7 @@ const SpriteLoaderPlugin = require('svg-sprite-loader/plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
+  devtool: '#source-map',
   target: 'web',
   entry: {
     "index": ['./samples/components.js']

@@ -1,5 +1,5 @@
 import * as Cesium from 'cesium';
-import { API } from '../../api/api';
+import { API } from '../';
 
 // import axios from 'https://unpkg.com/axios/dist/axios.min.js';
 
