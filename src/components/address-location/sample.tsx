@@ -9,6 +9,6 @@ function CesiumSample() {
 }
 
 export default {
-  order: 20,
+  order: 1,
   comp: CesiumSample,
 };

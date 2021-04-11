@@ -8,7 +8,7 @@ export class EarthMap {
 
   constructor(viewer: Cesium.CesiumWidget) {
     this.viewer = viewer;
-    this._googleMapInit();
+    // this._googleMapInit();
     this._mapboxMapInit();
     this._nightMapInit();
 
@@ -40,7 +40,7 @@ export class EarthMap {
     return this.viewer.imageryLayers.addImageryProvider(provider);
   }
 
-  private _googleMapInit = () => {
+  public _googleMapInit = () => {
     const esriImageryProvider = new Cesium.ArcGisMapServerImageryProvider({
       url: 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer',
     });

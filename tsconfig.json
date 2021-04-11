@@ -1,26 +1,35 @@
 {
-    "compileOnSave": true,
     "compilerOptions": {
-        "allowSyntheticDefaultImports": true,
-        "target": "es2017",
-        "jsx": "react",
-        "declaration": true,
-        "noImplicitAny": true,
-        "noImplicitThis": true,
-        "noUnusedParameters": true,
-        "noUnusedLocals": true,
-        "strict": true,
-        "noImplicitReturns": true,
-        "experimentalDecorators": true,
-        "strictPropertyInitialization": true,
-        "moduleResolution": "node",
-        "outDir": "./lib",
-        "sourceMap": false
+      "allowSyntheticDefaultImports": true,
+      "noImplicitThis": true,
+      "strict": true,
+      "noImplicitReturns": true,
+      "strictPropertyInitialization": true,
+      "strictNullChecks": true,
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "jsx": "react",
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "noImplicitAny": true,
+      "target": "es5",
+      "module": "es6",
+      "declaration": true,
+      "outDir": "./lib",
+      "sourceMap": true,
+      "downlevelIteration": true,
+      "lib": [
+        "dom",
+        "es7"
+      ]
     },
     "exclude": [
-        "node_modules"
+      "node_modules",
+      "lib",
+      "es"
     ],
     "include": [
-        "src/**/*"
+      "src/**/*",
+      "declaration.d.ts"
     ]
-}
+  }

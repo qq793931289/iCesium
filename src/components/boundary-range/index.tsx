@@ -13,11 +13,12 @@ export class BoundaryRangeComponent extends React.Component {
     this._boundaryrange = new BoundaryRange({
       viewer: this._earth.viewer,
     });
-    this.boundaryByAdcode(100000, true);
+    // this.boundaryByAdcode(100000, true);
   }
 
   public boundaryByAdcode(adcode: string | number = 100000, Subregion: boolean = false) {
-    this._boundaryrange?.boundaryByAdcode(adcode, Subregion);
+    console.log(adcode, Subregion);
+    // this._boundaryrange?.boundaryByAdcode(adcode, Subregion);
   }
 
   public render() {

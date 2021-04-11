@@ -8,8 +8,9 @@ export class Earth {
   public earthMap: EarthMap;
 
   constructor() {
+    console.log('load earth');
     this.viewer = new Cesium.CesiumWidget(Config.containerId || 'cesiumContainer', {
-      imageryProvider: false as any,
+      // imageryProvider: false as any,
       // selectionIndicator: false,
       // animation: false,
       // timeline: false,

@@ -6,7 +6,7 @@ import './style';
 import { Input } from 'antd';
 // import { CesiumContainer } from '../../cesium/ui.comp';
 import { Earth } from '../..';
-import { BaseContainer } from '../ui/base';
+// import { BaseContainer } from '../ui/base';
 // import { App } from '../../config';
 import { AddressLocation } from '../../utils/addresslocation';
 // import { cesConfig } from './config';
@@ -31,20 +31,34 @@ export class AddressLocationComponent extends React.Component {
 
   // }
 
+  constructor(props:any){
+    super(props);
+    this.componentDidMount();
+  }
+
 
   public getContainer() {
     return this.myInput;
   }
 
   public componentDidMount() {
+    console.log('load earth start');
     this._earth = new Earth();
+    console.log('load earth end');
 
     this._addressLocation = new AddressLocation({
       viewer: this._earth.viewer,
     });
 
+    // this._earth.earthMap.nightMapShow(true);
+
     // this.myInput = React.createRef();
     // (App as any).myInput = this.refs.myInput;
+  }
+
+  public search(input: string) {
+    // this.iCesium?.search(input);
+    this._addressLocation?.search(input);
   }
 
   private _search(input: string) {
@@ -80,7 +94,7 @@ export class AddressLocationComponent extends React.Component {
           enterButton
         /> */}
         {/* {this.ref} */}
-        <BaseContainer />
+        {/* <BaseContainer /> */}
         <div >
           <Search
             placeholder='百度地图API搜索'
